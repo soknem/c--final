@@ -1,0 +1,40 @@
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\bin\Debug\Bank Queue Management Systems.exe.config
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\bin\Debug\Bank Queue Management Systems.exe
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\bin\Debug\Bank Queue Management Systems.pdb
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank Queue Management Systems.csproj.AssemblyReference.cache
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Properties.Resources.resources
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank Queue Management Systems.csproj.GenerateResource.cache
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank Queue Management Systems.csproj.CoreCompileInputs.cache
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank Queue Management Systems.exe
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank Queue Management Systems.pdb
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Login.resources
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Bank.resources
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Register.resources
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Transfers.resources
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Withdraw.resources
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Deposit.resources
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Utility.resources
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.PIN.resources
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Display.resources
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Ticket_System.resources
+D:\C#2\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Setting.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\bin\Debug\Bank Queue Management Systems.exe.config
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\bin\Debug\Bank Queue Management Systems.exe
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\bin\Debug\Bank Queue Management Systems.pdb
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank Queue Management Systems.csproj.AssemblyReference.cache
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Deposit.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Display.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Login.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.PIN.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Register.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Bank.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Properties.Resources.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Setting.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Ticket_System.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Transfers.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Utility.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank_Queue_Management_Systems.Withdraw.resources
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank Queue Management Systems.csproj.GenerateResource.cache
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank Queue Management Systems.csproj.CoreCompileInputs.cache
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank Queue Management Systems.exe
+D:\C#\C# Final\Bank Queue Management Systems\Bank Queue Management Systems\obj\Debug\Bank Queue Management Systems.pdb
